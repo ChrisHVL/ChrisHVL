@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChrisHVL
-- 👀 I’m interested in Arduino, HAM RADIO, RC-Models
+- 👀 I’m interested in Arduino,HAM RADIO,RC-Models, Sharp Pocket Computer 8XX
 - 🌱 I’m currently learning Arduino WIFI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me schoeldgen-brieselang@gmx.de
